@@ -8,6 +8,9 @@ def read_from_db(spark, segments):
     """Read data from database into Spark DataFrame."""
     pass
 
+def read_from_google_storage(spark, segments):
+    """Read data from database into Spark DataFrame."""
+    pass
 
 def convert_df(spark, data):
     """Transform dataframe into the format that can be used by Spark ML."""

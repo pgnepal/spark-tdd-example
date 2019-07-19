@@ -1,0 +1,10 @@
+README.md
+setup.py
+clustering.egg-info/PKG-INFO
+clustering.egg-info/SOURCES.txt
+clustering.egg-info/dependency_links.txt
+clustering.egg-info/requires.txt
+clustering.egg-info/top_level.txt
+tests/__init__.py
+tests/basetests.py
+tests/test_clustering.py
